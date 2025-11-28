@@ -132,10 +132,11 @@ Adaptability • Collaboration • Communication • Creativity • Learning Agi
 
 ---
 
-## 🐍 Snake Animation (Your GitHub Contribution Graph)
+## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/output/dist/github-contribution-grid-snake.svg">
+
 </p>
 
 ---
