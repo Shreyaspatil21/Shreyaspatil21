@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/main/github.gif" width="350" alt="Shreyas Patil Intro">
 </p>
 
----
+
 
 ---
 
@@ -119,18 +119,7 @@ Adaptability • Collaboration • Communication • Creativity • Learning Agi
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shreyaspatil21&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyaspatil21&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaspatil21&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🐍 Snake Animation
 
