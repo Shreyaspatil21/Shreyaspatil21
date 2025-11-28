@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
-  workflow_dispatch:         # Allows manual run
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -17,9 +20,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Shreyaspatil21
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Upload to output branch
+      - name: Upload animation to branch
         uses: EndBug/add-and-commit@v9
         with:
           author_name: GitHub Actions
