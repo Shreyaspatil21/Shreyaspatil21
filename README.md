@@ -1,130 +1,113 @@
+# ✨ Shreyas Patil — Software Engineer in the Making
+
+---
+
+## 1️⃣ Dark-Theme Version 🌑
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/main/github.gif" width="350" alt="Shreyas Patil Intro">
+  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/main/github.gif" width="330" />
 </p>
 
----
-
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shreyas+Patil;Software+Engineer+in+the+Making;GenAI+%7C+ML+%7C+DevOps+Enthusiast;Welcome+to+My+GitHub+Profile!">
-</h1>
+<h2 align="center" style="color: #00FFAA;">
+  🚀 GenAI • ML • DevOps • Full-Stack Development
+</h2>
 
 <p align="center">
   <a href="mailto:shreyaspatil8049@gmail.com">📩 Email</a> •
-  <a href="https://github.com/Shreyaspatil21">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/shreyas-patil-526a89319">🔗 LinkedIn</a>
+  <a href="https://linkedin.com/in/shreyas-patil-526a89319">🔗 LinkedIn</a> •
+  <a href="https://github.com/Shreyaspatil21">💻 GitHub</a>
 </p>
+
+**About Me**  
+I build AI-powered tools, modern web apps, and deploy them using DevOps workflows.  
+Focused on **scalable backend, cloud-ready systems, and sleek UI**.
+
+**Tech Stack**  
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,tailwind,nodejs,express,mongodb,aws,docker,git" /></p>
+
+**Projects**  
+- **Logofy** — AI Logo Maker (React, OpenAI API)  
+- **CI/CD Leave Management System** — GitHub Actions + AWS EC2  
+- **Learnova** — AI Study Assistant (React + OpenAI)  
+- **Smart Traffic Sign Recognition** — YOLO, OpenCV
+
+---
+
+## 2️⃣ Ultra-Minimal Aesthetic Version ✨
+
+**Shreyas Patil — Software Engineer**  
+
+**Email:** [shreyaspatil8049@gmail.com](mailto:shreyaspatil8049@gmail.com)  
+**LinkedIn:** [shreyas-patil-526a89319](https://linkedin.com/in/shreyas-patil-526a89319)  
+**GitHub:** [Shreyaspatil21](https://github.com/Shreyaspatil21)  
+
+**About Me**: AI, ML, Full-stack Dev, Cloud & DevOps.  
+
+**Tech Stack:** C, C++, Python, JS, React, Tailwind, Node.js, Express, MongoDB, AWS, Docker  
+
+**Projects:** Logofy | CI/CD Leave System | Learnova | Smart Traffic Sign Recognition  
+
+**Education:** BE, CS — KLE Tech, Belagavi, CGPA 8.12  
+
+**Strengths:** Creativity • Collaboration • Communication • Fast Learner
+
+---
+
+## 3️⃣ More Animated Version 🎬
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreyaspatil21&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/main/github.gif" width="250" />  
+  <img src="https://img.shields.io/badge/Achievements-🏆-brightgreen" />  
+  <img src="https://img.shields.io/badge/Experience-💻-blue" />  
+  <img src="https://img.shields.io/badge/Skills-🛠️-orange" />
 </p>
 
----
+**Hi there! 👋 I’m Shreyas, a passionate software engineer.**  
+I create AI tools, modern web apps, and deploy scalable systems.  
 
-## 🚀 Summary  
-Futuristic Software Engineer driven by continuous learning and eager to take on challenging roles that enhance my skills and let me create real impact. Strong problem-solving ability, clear communication, and a deep interest in engineering challenges make me a valuable addition to the evolving tech world.
+**Featured Projects**  
+- **Logofy** — AI Logo Maker  
+- **Learnova** — AI Study Assistant  
+- **Smart Traffic Sign Recognition** — YOLO + OpenCV  
 
----
-
-## 🛠 Tech Stack & Tools  
-
-### 🎯 **Programming**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-</p>
-
-### 🎨 **Web**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### 🗄️ **Database**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 📚 **Concepts**
-<p align="center">OOPS • DSA</p>
-
-### 🧰 **Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,visualstudio,vscode" />
-</p>
+**Connect with me:**  
+📩 Email • 🔗 LinkedIn • 💻 GitHub
 
 ---
 
-## 🧩 Projects  
+## 4️⃣ Developer-Portfolio Style Version 💼
 
-### 🔷 **Logofy – Generative AI Logo Generator**  
-**Tech:** ReactJS, Tailwind, OpenAI API  
-- Built a logo-generation system using NLP and deep learning  
-- Designed reusable frontend components and intuitive UX  
-- **Best NLP & GenAI Project 2024**
+### About Me
+> Passionate about GenAI, ML, Full-Stack Development & DevOps.  
 
----
+### Featured Projects
+| Project | Tech Stack | Highlights |
+|---------|-----------|------------|
+| **Logofy** | React, Tailwind, OpenAI | AI Logo Generator, Best GenAI Project 2024 |
+| **CI/CD Leave System** | GitHub Actions, AWS EC2 | Multi-branch CI/CD, 99.99% uptime |
+| **Learnova** | React, Tailwind, MongoDB | AI study assistant, notes & quizzes |
+| **Traffic Sign Recognition** | Python, OpenCV, YOLO | Indian signs, 15% accuracy boost, Best ML Project |
 
-### 🔷 **Leave Management System using CI/CD**  
-**Tech:** GitHub Actions, AWS EC2, DuckDNS  
-- Automated CI/CD workflows for a real-time leave portal  
-- Deployed on EC2 with domain + uptime monitoring  
-- Achieved **99.99% stability** using BetterStack
+### Education
+- **BE – Computer Science** (2022–2026), KLE Technological University  
+- **CGPA:** 8.12  
 
----
+### Skills
+C, C++, Python, JS, React, Tailwind, Node.js, Express, MongoDB, MySQL, AWS, Docker, Git  
 
-### 🔷 **Learnova – AI Study Assistant**  
-**Tech:** React, Tailwind, MongoDB, OpenAI API  
-- AI platform generating notes, quizzes, flashcards  
-- Integrated PDF-to-notes AI  
-- Enhanced performance with background tasks
+### Achievements
+- 2nd Place — IEEE INNOVA Poster Presentation  
+- IEEE WIE Vice Chair & Media Lead  
 
----
-
-### 🔷 **Smart Traffic Sign Recognition**  
-**Tech:** Python, OpenCV, YOLO  
-- Trained YOLO model for Indian traffic signs  
-- Added attention module → **15% accuracy improvement**  
-- Presented at **INCOFT 2025**  
-- Won **Best ML Project**
-
----
-
-## 🎓 Education  
-🎓 **Bachelor of Engineering – Computer Science (2022–2026)**  
-KLE Technological University, Belagavi  
-📊 **CGPA: 8.12**
-
----
-
-## 📜 Certifications  
+### Certifications
 - AWS DevOps — Infosys Springboard  
 - JNCIA-Junos — Juniper Networks  
 - Software Testing — NPTEL  
 
----
-
-## 🏆 Achievements  
-🏅 2nd Place — IEEE INNOVA Poster Presentation 2024  
-🤝 IEEE WIE Vice Chair & Media Lead  
-
----
-
-## 🌐 Languages  
-Marathi (Native) • Hindi (Native) • Kannada (Professional) • English (Professional)
+### Contact
+📩 [shreyaspatil8049@gmail.com](mailto:shreyaspatil8049@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/shreyas-patil-526a89319)  
+💻 [GitHub](https://github.com/Shreyaspatil21)
 
 ---
 
-## 💡 Strengths  
-Adaptability • Collaboration • Communication • Creativity • Learning Agility
-
----
-
-## 🐍 Snake Animation (Your GitHub Contribution Graph)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## 💡 Strengths  
-Adaptability · Collaboration · Communication · Creativity · Learning Agility
