@@ -1,115 +1,131 @@
-# ✨ Shreyas Patil — Software Engineer in the Making
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/main/github.gif" width="330" />
+  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/main/github.gif" width="350" alt="Shreyas Patil Intro">
 </p>
 
-<h2 align="center">
-  🚀 GenAI • ML • DevOps • Full-Stack Development
-</h2>
+---
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shreyas+Patil;Software+Engineer+in+the+Making;GenAI+%7C+ML+%7C+DevOps+Enthusiast;Welcome+to+My+GitHub+Profile!">
+</h1>
 
 <p align="center">
   <a href="mailto:shreyaspatil8049@gmail.com">📩 Email</a> •
-  <a href="https://linkedin.com/in/shreyas-patil-526a89319">🔗 LinkedIn</a> •
-  <a href="https://github.com/Shreyaspatil21">💻 GitHub</a>
+  <a href="https://github.com/Shreyaspatil21">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/shreyas-patil-526a89319">🔗 LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreyaspatil21&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🔥 About Me
-
-I love building **AI-powered tools**, modern web apps, and deploying them with real-world DevOps workflows.  
-Curious mind. Quick learner. Strong fundamentals in CS.  
-Focused on creating **clean UI, scalable backend, and cloud-ready systems**.
+## 🚀 Summary  
+Futuristic Software Engineer driven by continuous learning and eager to take on challenging roles that enhance my skills and let me create real impact. Strong problem-solving ability, clear communication, and a deep interest in engineering challenges make me a valuable addition to the evolving tech world.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack & Tools  
 
-### Programming
-<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,js" /></p>
+### 🎯 **Programming**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
 
-### Frontend
-<p align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /></p>
+### 🎨 **Web**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-### Backend
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
+### 🗄️ **Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Databases
-<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></p>
+### 📚 **Concepts**
+<p align="center">OOPS • DSA</p>
 
-### Cloud / DevOps
-<p align="center"><img src="https://skillicons.dev/icons?i=aws,github,git,nginx,docker" /></p>
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 Logofy — Generative AI Logo Maker
-*React · Tailwind · OpenAI API*  
-✔ Built an AI logo generator using NLP  
-✔ Clean and reusable component-based UI  
-✔ Won **Best GenAI Project 2024**
+### 🧰 **Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,visualstudio,vscode" />
+</p>
 
 ---
 
-### 🔹 CI/CD Leave Management System
-*GitHub Actions · AWS EC2 · DuckDNS*  
-✔ Automated builds + deployments  
-✔ Multi-branch CI/CD workflow  
-✔ 99.99% uptime using BetterStack
+## 🧩 Projects  
+
+### 🔷 **Logofy – Generative AI Logo Generator**  
+**Tech:** ReactJS, Tailwind, OpenAI API  
+- Built a logo-generation system using NLP and deep learning  
+- Designed reusable frontend components and intuitive UX  
+- **Best NLP & GenAI Project 2024**
 
 ---
 
-### 🔹 Learnova — AI Study Assistant
-*React · Tailwind · MongoDB · OpenAI*  
-✔ Generates notes, quizzes, flashcards  
-✔ PDF → Notes AI  
-✔ Optimized for fast performance
+### 🔷 **Leave Management System using CI/CD**  
+**Tech:** GitHub Actions, AWS EC2, DuckDNS  
+- Automated CI/CD workflows for a real-time leave portal  
+- Deployed on EC2 with domain + uptime monitoring  
+- Achieved **99.99% stability** using BetterStack
 
 ---
 
-### 🔹 Smart Traffic Sign Recognition
-*Python · OpenCV · YOLO*  
-✔ YOLO model trained for Indian signs  
-✔ Attention module → **15% accuracy boost**  
-✔ Presented at **INCOFT 2025**  
-✔ Won **Best ML Project**
+### 🔷 **Learnova – AI Study Assistant**  
+**Tech:** React, Tailwind, MongoDB, OpenAI API  
+- AI platform generating notes, quizzes, flashcards  
+- Integrated PDF-to-notes AI  
+- Enhanced performance with background tasks
 
 ---
 
-## 🎓 Education
+### 🔷 **Smart Traffic Sign Recognition**  
+**Tech:** Python, OpenCV, YOLO  
+- Trained YOLO model for Indian traffic signs  
+- Added attention module → **15% accuracy improvement**  
+- Presented at **INCOFT 2025**  
+- Won **Best ML Project**
 
-🎓 BE — Computer Science (2022–2026)  
+---
+
+## 🎓 Education  
+🎓 **Bachelor of Engineering – Computer Science (2022–2026)**  
 KLE Technological University, Belagavi  
-📊 CGPA: **8.12**
+📊 **CGPA: 8.12**
 
 ---
 
-## 🏆 Achievements
-
-🏅 2nd Place — IEEE INNOVA Poster Presentation  
-🤝 IEEE WIE Vice Chair & Media Lead
-
----
-
-## 📜 Certifications
-
-* AWS DevOps — Infosys Springboard  
-* JNCIA-Junos — Juniper Networks  
-* Software Testing — NPTEL
+## 📜 Certifications  
+- AWS DevOps — Infosys Springboard  
+- JNCIA-Junos — Juniper Networks  
+- Software Testing — NPTEL  
 
 ---
 
-## 💡 Strengths
+## 🏆 Achievements  
+🏅 2nd Place — IEEE INNOVA Poster Presentation 2024  
+🤝 IEEE WIE Vice Chair & Media Lead  
 
-Creativity • Collaboration • Communication • Adaptability • Fast Learning
+---
+
+## 🌐 Languages  
+Marathi (Native) • Hindi (Native) • Kannada (Professional) • English (Professional)
 
 ---
 
-## 🌐 Let’s Connect
-
-📩 Email: **[shreyaspatil8049@gmail.com](mailto:shreyaspatil8049@gmail.com)**  
-🔗 LinkedIn: **[shreyas-patil-526a89319](https://linkedin.com/in/shreyas-patil-526a89319)**
+## 💡 Strengths  
+Adaptability • Collaboration • Communication • Creativity • Learning Agility
 
 ---
+
+## 🐍 Snake Animation (Your GitHub Contribution Graph)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shreyaspatil21/Shreyaspatil21/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 💡 Strengths  
+Adaptability · Collaboration · Communication · Creativity · Learning Agility
+
