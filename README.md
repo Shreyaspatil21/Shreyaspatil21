@@ -9,8 +9,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shreyas+Patil;Software+Engineer+in+the+Making;GenAI+%7C+ML+%7C+DevOps+Enthusiast;Welcome+to+My+GitHub+Profile!">
 </h1>
-
+<h1 align="center">
 Aspiring Software Engineer 💻| MERN ❄️ | Machine Learning ⏳ | GenAI ⚡
+</h1>
 
 <p align="center">
   <a href="mailto:shreyaspatil8049@gmail.com">📩 Email</a> •
