@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shreyas+Patil;Software+Engineer+in+the+Making;GenAI+%7C+ML+%7C+DevOps+Enthusiast;Welcome+to+My+GitHub+Profile!">
 </h1>
 
+Aspiring Software Engineer 💻| MERN ❄️ | Machine Learning ⏳ | GenAI ⚡
+
 <p align="center">
   <a href="mailto:shreyaspatil8049@gmail.com">📩 Email</a> •
   <a href="https://github.com/Shreyaspatil21">💻 GitHub</a> •
